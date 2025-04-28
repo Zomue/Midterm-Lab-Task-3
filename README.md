@@ -16,19 +16,29 @@ appealing and presentable
 VISUALS/Reports stated under number 2.
 ## 8. The Slicers should make your Dashboard interactive
 
-## Sal by Role Type
-![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/Sal%20by%20Role%20Type%20PIC.png)
+## Sal By Role
+![image](https://github.com/user-attachments/assets/dad20948-0c5f-4575-9521-0cd6fd09d0b8)
 
-## Sal by Size 
-![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/Sal%20by%20Size%20PIC.png)
 
-## Sal by State 
-![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/Sal%20by%20State%20PIC.png)
+## Company Size
+![image](https://github.com/user-attachments/assets/42a05832-83d8-4f85-b6b3-310243c7eaf8)
 
-## This Picture Shows the Pivot Table
-![picture](https://github.com/Zomue/Zomue/blob/main/Image/Screenshot%202025-03-14%20224753.png) 
 
-## This show the Pivot Map chart 
-![picture](https://github.com/Zomue/Zomue/blob/main/Image/Screenshot%202025-03-14%20224742.png)
+## States
+![image](https://github.com/user-attachments/assets/bf8947dd-448c-462c-b375-fa3fecc14ddd)
+
+
+## Role By Sector
+![image](https://github.com/user-attachments/assets/da79f08b-0ec3-4265-93ac-30602057f598)
+
+## Sal By Sector
+![image](https://github.com/user-attachments/assets/07c2372f-2244-4eda-8c51-ddfb2799b4f2)
+
+# DASHBOARD SCREENSHOT 
+
+![image](https://github.com/user-attachments/assets/eb46db2f-5349-49ab-b419-ec0a6489d50e)
+![image](https://github.com/user-attachments/assets/05a0bccd-36e0-4a45-87aa-2fdbe9aeb974)
+![image](https://github.com/user-attachments/assets/0acab89f-bd05-4f7e-9f2c-b8eeda789ddf)
+
 
 [BACK TO PORTFOLIO](https://zomue.github.io/)
